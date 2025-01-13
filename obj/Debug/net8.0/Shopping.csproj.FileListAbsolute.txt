@@ -1,0 +1,1295 @@
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.exe
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.deps.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Shopping.pdb
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping.props
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.dll
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.pdb
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\AdminMenu.json
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\User\source\repos\Shopping\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\User\source\repos\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.pdb
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\AdminMenu.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.exe
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.deps.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Shopping.pdb
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping.props
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+C:\Users\User\Desktop\ASP.NET Core MVC資料庫應用程式開發實務班第01期\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\AdminMenu.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\appsettings.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.exe
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.deps.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Shopping.pdb
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Humanizer.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping.props
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.pdb
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+C:\Users\88697\OneDrive\文件\1005\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+C:\Shopping\bin\Debug\net8.0\AdminMenu.json
+C:\Shopping\bin\Debug\net8.0\appsettings.Development.json
+C:\Shopping\bin\Debug\net8.0\appsettings.json
+C:\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+C:\Shopping\bin\Debug\net8.0\Shopping.exe
+C:\Shopping\bin\Debug\net8.0\Shopping.deps.json
+C:\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+C:\Shopping\bin\Debug\net8.0\Shopping.dll
+C:\Shopping\bin\Debug\net8.0\Shopping.pdb
+C:\Shopping\bin\Debug\net8.0\Azure.Core.dll
+C:\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+C:\Shopping\bin\Debug\net8.0\Humanizer.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Shopping\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Common.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Shopping\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+C:\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Shopping\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Shopping\bin\Debug\net8.0\X.PagedList.dll
+C:\Shopping\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Shopping\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+C:\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+C:\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+C:\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+C:\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+C:\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+C:\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+C:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping.props
+C:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Shopping\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+C:\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+C:\Shopping\obj\Debug\net8.0\Shopping.dll
+C:\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+C:\Shopping\obj\Debug\net8.0\Shopping.pdb
+C:\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+C:\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+E:\Shopping\bin\Debug\net8.0\AdminMenu.json
+E:\Shopping\bin\Debug\net8.0\appsettings.Development.json
+E:\Shopping\bin\Debug\net8.0\appsettings.json
+E:\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+E:\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.endpoints.json
+E:\Shopping\bin\Debug\net8.0\Shopping.exe
+E:\Shopping\bin\Debug\net8.0\Shopping.deps.json
+E:\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+E:\Shopping\bin\Debug\net8.0\Shopping.dll
+E:\Shopping\bin\Debug\net8.0\Shopping.pdb
+E:\Shopping\bin\Debug\net8.0\Azure.Core.dll
+E:\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+E:\Shopping\bin\Debug\net8.0\Humanizer.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Shopping\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Common.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Shopping\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+E:\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Shopping\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Shopping\bin\Debug\net8.0\X.PagedList.dll
+E:\Shopping\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\Shopping\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+E:\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+E:\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+E:\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+E:\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+E:\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+E:\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+E:\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+E:\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+E:\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+E:\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+E:\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+E:\Shopping\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping.props
+E:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+E:\Shopping\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+E:\Shopping\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+E:\Shopping\obj\Debug\net8.0\Shopping.dll
+E:\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+E:\Shopping\obj\Debug\net8.0\Shopping.pdb
+E:\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+E:\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+E:\Shopping\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

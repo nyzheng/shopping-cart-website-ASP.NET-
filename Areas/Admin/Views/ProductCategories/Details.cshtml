@@ -1,0 +1,25 @@
+﻿@model Shopping.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "產品類別管理";
+}
+
+<h2 class="text-primary">產品類別資訊</h2>
+<hr />
+
+<div class="card mt-3">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 text-secondary">類別名稱</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CategoryName)</dd>
+
+            <dt class="col-sm-3 text-secondary">建立日期</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="mt-4">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">編輯</a>
+    <a asp-action="Index" class="btn btn-secondary ms-2">返回列表</a>
+</div>

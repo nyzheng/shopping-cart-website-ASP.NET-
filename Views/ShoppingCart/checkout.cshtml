@@ -1,0 +1,87 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "結帳";
+}
+  <main class="mt-5 pt-4">
+    <div class="container wow fadeIn">
+
+      <!-- Heading -->
+      <h2 class="my-5 h2 text-center">結帳</h2>
+
+      <!--Grid row-->
+      <div class="row">
+
+        <!--Grid column-->
+        <div class="col-md-12 mb-4">
+
+          <!--Card-->
+          <div class="card">
+
+            <!--Card content-->
+              <form asp-action="checkout" class="card-body">
+
+
+
+                  <!--Username-->
+                  <div class="md-form input-group pl-0 mb-5">
+                      <div class="input-group-prepend">
+                          <span class="input-group-text" id="basic-addon1">@@</span>
+                      </div>
+                      <input asp-for="Name"  class="form-control py-0" placeholder="請輸入姓名" aria-describedby="basic-addon1">
+                       <span asp-validation-for="Name" class="text-danger"></span>
+                  </div>
+
+                  <!--email-->
+                  <div class="md-form mb-5">
+                      <input asp-for="Email" id="email" class="form-control" placeholder="請輸入E-mail">
+                      <label for="email" class="">E-mail</label>
+                       <span asp-validation-for="Email" class="text-danger"></span>
+                  </div>
+
+                  <!--Mobile-->
+                  <div class="md-form mb-5">
+                      <input asp-for="Mobile" id="mobile" class="form-control" placeholder="請輸入手機號碼">
+                      <label for="mobile" class="">手機號碼</label>
+                       <span asp-validation-for="Mobile" class="text-danger"></span>
+                  </div>
+
+                  <!--address-->
+                  <div class="md-form mb-5">
+                      <input asp-for="Address" id="address" class="form-control" placeholder="請輸入地址">
+                      <label for="address" class="">地址</label>
+                       <span asp-validation-for="Address" class="text-danger"></span>
+                  </div>
+
+
+
+                  <!--Grid row-->
+                  <div class="row">
+
+
+
+                  </div>
+                  <!--Grid row-->
+
+
+
+
+
+
+                  <hr class="mb-4">
+                  <button class="btn btn-primary btn-lg btn-block" type="submit">送出</button>
+
+              </form>
+
+          </div>
+          <!--/.Card-->
+
+        </div>
+        <!--Grid column-->
+
+       
+
+      </div>
+      <!--Grid row-->
+
+    </div>
+  </main>

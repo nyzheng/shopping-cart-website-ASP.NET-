@@ -1,0 +1,92 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "訂單完成";
+}
+<main class="mt-5 pt-4">
+    <div class="container wow fadeIn">
+
+        <!-- Heading -->
+        <h2 class="my-5 h2 text-center">完成</h2>
+
+        <!--Grid row-->
+        <div class="row">
+
+            <!--Grid column-->
+            <div class="col-md-12 mb-4">
+
+                <!--Card-->
+                <div class="card border-success">
+                    <div class="card-header bg-success text-white">
+                        <h4 class="mb-0"><i class="fas fa-check-circle me-2"></i>訂單已成功提交！</h4>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">感謝您的購買，[@Model.Name]</h5>
+                        <p class="card-text">您的訂單編號是：<strong>#@Model.Id.ToString("0000000")</strong></p>
+                        <p>我們已經發送一封確認郵件到 @Model.Email</p>
+
+                        <hr>
+
+                        <h5>訂單摘要</h5>
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>商品</th>
+                                    <th>數量</th>
+                                    <th class="text-end">價格</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (OrderDetail detail in Model.OrderDetails)
+                                {
+                                <tr>
+                                    <td>@detail.ProductName</td>
+                                    <td>@detail.Quantity</td>
+                                    <td class="text-end">$@detail.Price</td>
+                                    <td class="text-end">$@detail.Subtotal</td>
+
+                                </tr>                                 
+                                }
+      
+                                <tr>
+                                    <td colspan="2" class="text-end"><strong>總計：</strong></td>
+                                    <td class="text-end"><strong>$@Model.TotalAmount</strong></td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <hr>
+
+                        <h5>配送資訊</h5>
+                        <p>
+                            [收件人姓名]: @Model.Name<br>
+                            [街道地址]: @Model.Address<br>
+
+                        </p>
+
+                        <hr>
+
+                        <h5>接下來的步驟</h5>
+                        <ul>
+                            <li>您將收到一封訂單確認郵件。</li>
+                            <li>我們將在處理您的訂單後發送發貨通知。</li>
+                            <li>預計送達時間：3-5 個工作日。</li>
+                        </ul>
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-between">
+                            <a href="/" class="btn btn-outline-primary"><i class="fas fa-shopping-cart me-2"></i>繼續購物</a>
+                        </div>
+                    </div>
+                </div>
+                <!--/.Card-->
+
+            </div>
+            <!--Grid column-->
+
+
+
+        </div>
+        <!--Grid row-->
+
+    </div>
+</main>

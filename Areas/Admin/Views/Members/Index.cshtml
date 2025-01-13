@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Shopping.Models.Member>
+
+@{
+    ViewData["Title"] = "帳號列表";
+}
+
+<h1 class="mb-4">帳號列表</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">新增帳號</a>
+</p>
+
+<table class="table table-hover table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Account)</th>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.CreateDate)</th>
+            <th class="text-center">操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Account)</td>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreateDate)</td>
+                <td class="text-center">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning mx-1">編輯</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info mx-1">詳細資料</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger mx-1">刪除</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Shopping.Models.Product>
+
+@{
+    ViewData["Title"] = "產品清單";
+}
+
+<h1 class="text-primary mb-4">產品清單</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">新增產品</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-light">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ProductName)</th>
+            <th>@Html.DisplayNameFor(model => model.ImagePath)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.OriginalPrice)</th>
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>@Html.DisplayNameFor(model => model.Status)</th>
+            <th>@Html.DisplayNameFor(model => model.IsNew)</th>
+            <th>@Html.DisplayNameFor(model => model.IsBestSeller)</th>
+            <th>@Html.DisplayNameFor(model => model.ProductCategory.CategoryName)</th>
+            <th>@Html.DisplayNameFor(model => model.CreateDate)</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td><img src="/UpImages/@item.ImagePath" alt="@item.ProductName" class="img-thumbnail" style="max-height: 75px;" /></td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.OriginalPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                <td>@Html.DisplayFor(modelItem => item.IsNew)</td>
+                <td>@Html.DisplayFor(modelItem => item.IsBestSeller)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductCategory.CategoryName)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreateDate)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">編輯</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm ms-1">詳細</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm ms-1">刪除</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

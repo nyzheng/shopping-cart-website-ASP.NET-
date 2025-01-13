@@ -1,0 +1,65 @@
+﻿@model Shopping.Models.Member
+
+@{
+    ViewData["Title"] = "帳號刪除";
+}
+
+<div class="container mt-5">
+    <h3 class="mb-4 text-danger">確定要刪除此帳號嗎?</h3>
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h4 class="mb-3">帳號詳細資訊</h4>
+            <hr />
+            <dl class="row">
+                <!-- 帳號 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Account)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Account)
+                </dd>
+
+                <!-- 密碼 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Password)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Password)
+                </dd>
+
+                <!-- 姓名 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <!-- 電子郵件 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+
+                <!-- 創建日期 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateDate)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- 刪除確認表單 -->
+    <div class="text-center mt-4">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger btn-lg">刪除帳號</button>
+        </form>
+        <a asp-action="Index" class="btn btn-secondary btn-lg mt-2">回到列表</a>
+    </div>
+</div>

@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewData["Title"] = "FAQ";
+}
+<main class="mt-5 pt-4" style="height:60vh;">
+<div class="container wow fadeIn">
+        <div class="container mb-5">
+            <div id="faqAccordion">
+                <div class="card mb-2">
+                    <div class="card-header" id="heading1">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                如何創建帳戶？
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#faqAccordion">
+                        <div class="card-body">
+                            <p>創建帳戶非常簡單。點擊網頁右上角的"註冊"按鈕，填寫必要的個人信息，然後點擊"創建帳戶"即可。</p>
+                            <p class="text-muted mt-2">
+                                <small>發布日期: 2023/01/15</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-2">
+                    <div class="card-header" id="heading2">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                如何重置密碼？
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#faqAccordion">
+                        <div class="card-body">
+                            <p>如果您忘記了密碼，請點擊登錄頁面上的"忘記密碼"鏈接。輸入您的電子郵件地址，我們將向您發送重置密碼的說明。</p>
+                            <p class="text-muted mt-2">
+                                <small>發布日期: 2023/02/20</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card mb-2">
+                    <div class="card-header" id="heading3">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                如何聯繫客戶支持？
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#faqAccordion">
+                        <div class="card-body">
+                            <p>您可以通過以下方式聯繫我們的客戶支持團隊：</p>
+                            <ul>
+                                <li>發送電子郵件至 support@example.com</li>
+                                <li>撥打我們的客服熱線 0800-123-456</li>
+                                <li>使用網站底部的在線聊天功能</li>
+                            </ul>
+                            <p class="text-muted mt-2">
+                                <small>發布日期: 2023/03/10</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</main>
+
+@section Style
+{
+    <style>
+        .faq-header {
+            background-color: #f8f9fa;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+        }
+        .card-header .btn-link {
+            color: #007bff;
+            text-decoration: none;
+            width: 100%;
+            text-align: left;
+        }
+        .card-header .btn-link:hover,
+        .card-header .btn-link:focus {
+            text-decoration: none;
+        }
+        .card-header .btn-link:not(.collapsed) {
+            color: #0056b3;
+        }
+    </style>
+}

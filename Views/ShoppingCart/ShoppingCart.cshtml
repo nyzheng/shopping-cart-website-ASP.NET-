@@ -1,0 +1,96 @@
+﻿@model List<OrderDetail>
+@{
+    ViewData["Title"] = "購物車";
+}
+<main class="mt-5 pt-4">
+    <div class="container wow fadeIn">
+
+        <!-- Heading -->
+        <h2 class="my-5 h2 text-center">購物車</h2>
+
+        <!--Grid row-->
+        <div class="row">
+
+
+
+            <!--Grid column-->
+            <div class="col-md-12 mb-4">
+
+                <!-- Heading -->
+                <!-- Cart -->
+                <ul class="list-group mb-3 z-depth-1">
+                    <li class="list-group-item d-flex justify-content-between lh-condensed">
+                        <div class="container mt-5">
+
+                                <div class="table-responsive">
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>商品</th>
+                                                <th>價格</th>
+                                                <th>數量</th>
+                                                <th>小計</th>
+                                                <th>操作</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (OrderDetail detail in Model)
+                                            {
+                                                <tr>
+                                                    <td>
+                                                        <img src="/UpImages/@detail.ImagePath" alt="@detail.ProductName" class="img-thumbnail" width="50">
+                                                        @detail.ProductName
+                                                    </td>
+                                                    <td>$@detail.Price</td>
+                                                    <td>
+                                                        <div class="input-group" style="width: 120px;">
+
+                                                            <form asp-action="Update">
+                                                                <input type="hidden" name="Id" value="@detail.ProductId" />
+                                                                <input type="number" name="Quantity" class=" text-center" style="width: 50px" value="@detail.Quantity" />
+                                                                <button type="submit" class="btn btn-info btn-sm">更新</button>
+                                                            </form>
+
+                                                        </div>
+                                                    </td>
+                                                    <td>$@detail.Subtotal</td> <!--已在後端計算-->
+                                                    <td>
+                                                        <form asp-action="Delete">
+                                                            <input type="hidden" name="Id" value="@detail.ProductId" />
+                                                            <button type="submit" class="btn btn-danger btn-sm">刪除</button>
+                                                        </form>
+                                                    </td>
+                                                </tr>
+                                            }
+                                          </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="row justify-content-end">
+                                    <div class="col-md-12">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <h4>總計：$@Model.Sum(x => x.Subtotal)</h4>
+                                            <a class="btn btn-primary btn-lg w-100 mt-3" role="button" asp-action="checkout">結帳</a>
+                                                <a class="btn btn-info btn-lg w-100 mt-3">繼續購物</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+
+                    </li>
+
+                </ul>
+                <!-- Cart -->
+
+
+
+            </div>
+            <!--Grid column-->
+
+        </div>
+        <!--Grid row-->
+
+    </div>
+</main>

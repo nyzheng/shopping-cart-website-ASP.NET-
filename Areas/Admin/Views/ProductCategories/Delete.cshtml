@@ -1,0 +1,30 @@
+﻿@model Shopping.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "產品類別管理";
+}
+
+<h1 class="text-danger">刪除確認</h1>
+
+<h3 class="text-warning">您確定要刪除此產品類別嗎？</h3>
+
+<div class="card mt-3">
+    <div class="card-header bg-danger text-white">
+        <strong>產品類別詳細資訊</strong>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 text-secondary">類別名稱</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CategoryName)</dd>
+
+            <dt class="col-sm-3 text-secondary">建立日期</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+        </dl>
+    </div>
+</div>
+
+<form asp-action="Delete" class="mt-4">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">刪除</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">返回列表</a>
+</form>

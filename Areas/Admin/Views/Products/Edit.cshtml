@@ -1,0 +1,96 @@
+﻿@model Shopping.Models.Product
+
+@{
+    ViewData["Title"] = "產品清單";
+}
+
+<h1 class="text-primary mb-4">編輯產品</h1>
+
+<div class="card shadow-sm p-4">
+    <h4 class="card-title text-secondary">產品資訊</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="CreateDate" />
+                <input type="hidden" asp-for="ImagePath" />
+
+                <!-- 產品名稱 -->
+                <div class="form-group mb-3">
+                    <label asp-for="ProductName" class="form-label"></label>
+                    <input asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+
+                <!-- 圖片上傳 -->
+                <div class="form-group mb-3">
+                    <label asp-for="Image" class="form-label"></label>
+                    <input type="file" asp-for="Image" class="form-control" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+
+                <!-- 產品描述 -->
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <!-- 原價 -->
+                <div class="form-group mb-3">
+                    <label asp-for="OriginalPrice" class="form-label"></label>
+                    <input asp-for="OriginalPrice" class="form-control" />
+                    <span asp-validation-for="OriginalPrice" class="text-danger"></span>
+                </div>
+
+                <!-- 現價 -->
+                <div class="form-group mb-3">
+                    <label asp-for="Price" class="form-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <!-- 狀態選擇 -->
+                <div class="form-group mb-3">
+                    <label asp-for="Status" class="form-label"></label>
+                    <select asp-for="Status" asp-items="new SelectList(Enum.GetValues(typeof(ProductStatus)))" class="form-select"></select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <!-- 新品標記 -->
+                <div class="form-check mb-3">
+                    <input class="form-check-input" asp-for="IsNew" />
+                    <label asp-for="IsNew" class="form-check-label"></label>
+                </div>
+
+                <!-- 暢銷標記 -->
+                <div class="form-check mb-3">
+                    <input class="form-check-input" asp-for="IsBestSeller" />
+                    <label asp-for="IsBestSeller" class="form-check-label"></label>
+                </div>
+
+                <!-- 產品類別 -->
+                <div class="form-group mb-3">
+                    <label asp-for="ProductCategoryId" class="form-label">產品類別</label>
+                    <select asp-for="ProductCategoryId" class="form-select" asp-items="ViewBag.ProductCategoryId"></select>
+                    <span asp-validation-for="ProductCategoryId" class="text-danger"></span>
+                </div>
+
+                <!-- 儲存按鈕 -->
+                <div class="form-group">
+                    <input type="submit" value="儲存" class="btn btn-primary me-2" />
+                    <a asp-action="Index" class="btn btn-secondary">返回列表</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

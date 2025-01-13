@@ -1,0 +1,47 @@
+﻿/* 分頁容器 */
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+/* 分頁項目 */
+.pagination li {
+    margin: 0 2px;
+}
+
+/* 分頁鏈接 */
+.pagination li a,
+.pagination li span {
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #333;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+/* 鼠標懸停效果 */
+.pagination li a:hover {
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+/* 當前頁面 */
+.pagination li.active span {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* 禁用的鏈接（如第一頁的"上一頁"） */
+.pagination li.disabled span {
+    color: #6c757d;
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}

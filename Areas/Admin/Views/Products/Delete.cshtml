@@ -1,0 +1,65 @@
+﻿@model Shopping.Models.Product
+
+@{
+    ViewData["Title"] = "產品刪除";
+}
+
+<h1 class="mb-4 text-danger">刪除產品</h1>
+
+<h3 class="text-warning">您確定要刪除此產品嗎？</h3>
+
+<div class="card shadow-sm p-4 mb-4">
+    <h4 class="card-title text-primary">產品詳細資訊</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3 font-weight-bold">產品名稱</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProductName)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">產品圖片</dt>
+        <dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.ImagePath))
+            {
+                <img src="@Url.Content("~/UpImages/" + Model.ImagePath)" alt="Product Image" class="img-thumbnail" style="max-width:200px;" />
+            }
+            else
+            {
+                <span class="text-muted">無圖片可顯示</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">描述</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">原價</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.OriginalPrice) 元</dd>
+
+        <dt class="col-sm-3 font-weight-bold">售價</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Price) 元</dd>
+
+        <dt class="col-sm-3 font-weight-bold">狀態</dt>
+        <dd class="col-sm-9">
+            <span class="badge @(Model.IsAvailable ? "bg-success" : "bg-danger")">
+                @Html.DisplayFor(model => model.Status)
+            </span>
+        </dd>
+
+
+        <dt class="col-sm-3 font-weight-bold">是否為新品</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.IsNew)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">是否為熱銷品</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.IsBestSeller)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">產品類別</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProductCategory.CategoryName)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">建立日期</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" class="mt-4">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="確認刪除" class="btn btn-danger" />  
+    <a asp-action="Index" class="btn btn-secondary">返回列表</a>
+</form>

@@ -1,0 +1,75 @@
+﻿@model Shopping.Models.Order
+
+@{
+    ViewData["Title"] = "訂單詳細資料";
+}
+
+<div class="container mt-5">
+    <h3 class="mb-4">訂單詳細資料</h3>
+
+    <!-- 訂單基本資訊 -->
+    <div class="row mb-4">
+        <div class="col-md-8 offset-md-2">
+            <h4 class="mb-3">訂單資訊</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Id)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Name)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Email)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Mobile)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Mobile)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Address)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.CreateDate)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Status)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Status)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.TotalAmount)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.TotalAmount)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- 訂單明細列表 -->
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="mb-3">訂單明細</h4>
+            <table class="table table-hover table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>@Html.DisplayName("產品名稱")</th>
+                        <th>@Html.DisplayName("價格")</th>
+                        <th>@Html.DisplayName("數量")</th>
+                        <th>@Html.DisplayName("小計")</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var detail in Model.OrderDetails)
+                    {
+                        <tr>
+                            <td>@detail.ProductName</td>
+                            <td>@detail.Price.ToString("C")</td>
+                            <td>@detail.Quantity</td>
+                            <td>@detail.Subtotal.ToString("C")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- 返回列表按鈕 -->
+    <div class="text-center mt-4">
+        <a asp-action="Index" class="btn btn-secondary btn-lg">回到訂單列表</a>
+    </div>
+</div>

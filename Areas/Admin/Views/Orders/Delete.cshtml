@@ -1,0 +1,81 @@
+﻿@model Shopping.Models.Order
+
+@{
+    ViewData["Title"] = "訂單刪除";
+}
+
+<div class="container mt-5">
+    <h3 class="mb-4 text-danger">確定要刪除此訂單嗎?</h3>
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h4 class="mb-3">訂單詳細資訊</h4>
+            <hr />
+            <dl class="row">
+                <!-- 訂單編號 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Id)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Id)
+                </dd>
+
+                <!-- 姓名 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <!-- 電子郵件 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+
+                <!-- 手機號碼 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Mobile)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Mobile)
+                </dd>
+
+                <!-- 地址 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Address)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Address)
+                </dd>
+
+                <!-- 訂單日期 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateDate)
+                </dd>
+
+                <!-- 訂單狀態 -->
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Status)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Status)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- 刪除確認表單 -->
+    <div class="text-center mt-4">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger btn-lg">刪除訂單</button>
+        </form>
+        <a asp-action="Index" class="btn btn-secondary btn-lg mt-2">回到列表</a>
+    </div>
+</div>

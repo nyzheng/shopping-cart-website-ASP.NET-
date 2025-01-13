@@ -1,0 +1,62 @@
+﻿@model Shopping.Models.Product
+
+@{
+    ViewData["Title"] = "產品詳細資訊";
+}
+
+<h1 class="mb-4">@ViewData["Title"]</h1>
+
+<div class="card shadow-sm p-4 mb-4">
+    <h4 class="card-title text-primary">產品詳細資訊</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3 font-weight-bold">產品名稱</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProductName)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">產品圖片</dt>
+        <dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.ImagePath))
+            {
+                <img src="@Url.Content("~/UpImages/" + Model.ImagePath)" alt="Product Image" class="img-thumbnail" style="max-width:200px;" />
+            }
+            else
+            {
+                <span class="text-muted">無圖片可顯示</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">描述</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">原價</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.OriginalPrice) 元</dd>
+
+        <dt class="col-sm-3 font-weight-bold">售價</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Price) 元</dd>
+
+        <dt class="col-sm-3 font-weight-bold">狀態</dt>
+        <dd class="col-sm-9">
+            <span class="badge @(Model.IsAvailable ? "bg-success" : "bg-danger")">
+                @Html.DisplayFor(model => model.Status)
+            </span>
+        </dd>
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">是否為新品</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.IsNew)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">是否為熱銷品</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.IsBestSeller)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">產品類別</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProductCategory.CategoryName)</dd>
+
+        <dt class="col-sm-3 font-weight-bold">建立日期</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+    </dl>
+</div>
+
+<div class="mt-4">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">編輯</a>
+    <a asp-action="Index" class="btn btn-secondary">返回列表</a>
+</div>

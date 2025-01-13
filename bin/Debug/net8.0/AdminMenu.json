@@ -1,0 +1,51 @@
+{
+  "Menus": [
+    {
+      "title": "帳號管理",
+      "controller": "Members",
+      "action": "Index",
+      "value": "A01",
+      "icon": "",
+      "items": []
+    },
+    {
+      "title": "產品管理",
+      "controller": "",
+      "action": "",
+      "value": "P",
+      "icon": "",
+      "items": [
+        {
+          "title": "產品類別管理",
+          "controller": "ProductCategories",
+          "action": "Index",
+          "value": "P01",
+          "icon": ""
+        },
+        {
+          "title": "產品管理",
+          "controller": "Products",
+          "action": "Index",
+          "value": "P02",
+          "icon": ""
+        } 
+      ]
+    },
+    {
+      "title": "訂單管理",
+      "controller": "Orders",
+      "action": "Index",
+      "value": "O01",
+      "icon": "",
+      "items": []
+    },
+    {
+      "title": "Banner管理",
+      "controller": "Banners",
+      "action": "Index",
+      "value": "B01",
+      "icon": "",
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿@model Shopping.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "產品類別管理";
+}
+
+<h1 class="text-primary">編輯產品類別</h1>
+
+<h4 class="text-muted">產品類別資訊</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="CreateDate" />
+
+            <!-- Category Name Input -->
+            <div class="form-group">
+                <label asp-for="CategoryName" class="form-label fw-bold">類別名稱</label>
+                <input asp-for="CategoryName" class="form-control" placeholder="請輸入產品類別名稱" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+
+            <!-- Save Button -->
+            <div class="form-group mt-3">
+                <input type="submit" value="儲存" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary ms-2">回到列表</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
